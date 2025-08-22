@@ -1,6 +1,6 @@
 # Robotic Language Grounding
 
-This is the repository that contains source code for the [Robotic Language Grounding Survey website](https://robotic_language_grounding_survey.github.io/).
+This is the repository that contains source code for the [Robotic Language Grounding Survey website](https://roboticlanguagegrounding.github.io/).
 
 ```
 @inproceedings{cohen2024roblanggroundsurvey,
